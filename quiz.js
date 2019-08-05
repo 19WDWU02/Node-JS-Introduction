@@ -45,7 +45,6 @@ process.stdin.on('data', function(answer){
   } else {
     process.stdout.write(`WRONG!!!!, ${inputAnswer} is not the right answer, please try again\n`);
   }
-
 });
 
 askQuestion(0);
