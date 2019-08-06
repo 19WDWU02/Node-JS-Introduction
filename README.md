@@ -13,7 +13,7 @@ $ node 'FILENAME'
 ```
 ### Task 1
 Combine both the process and filesystems modules to create a new quiz.  
-This quiz needs to
+This quiz needs to (in no particular order)
 1. Ask for the users name
 2. Ask them a set of questions
 3. At the end of the quiz tell them how many questions they got right and wrong
